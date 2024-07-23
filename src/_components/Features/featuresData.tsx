@@ -27,7 +27,7 @@ const featuresData: Feature[] = [
       width={300}
       height={300}
       alt="Cuentas de usuario"
-      className="w-60 h-60"
+      className="w-full h-auto object-cover"
       />
     ),
     title: "Configuración de usuarios",
@@ -73,7 +73,7 @@ const featuresData: Feature[] = [
       width={300}
       height={300}
       alt="Contraseña"
-      className="w-60 h-60"
+      className="w-full h-auto object-cover"
       />
     ),
     title: "Cambio de contraseña",

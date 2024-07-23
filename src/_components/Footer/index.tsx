@@ -21,7 +21,7 @@ const Footer = () => {
                     height={30}
                   />
                   <Image
-                    src="images/logo/logo.svg"
+                    src="/images/logo/logo-xcaret.svg"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
@@ -78,38 +78,39 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
+            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12 flex justify-center items-center">
               <div className="mb-12 lg:mb-16">
                 <a href="https://www.hotelxcaret.com/es/hotel-xcaret-mexico/">
                   <img
-                    src="http://10.13.175.84:81/epantallas/ima/hxm.svg"
+                    src="/images/hero/hxm.svg"
                     alt="Imagen del Hotel Xcaret México"
-                    className="mb-2 w-40 items-center"
+                    className="mb-2 w-40 items-center bg-white"
                   />
                 </a>
               </div>
             </div>
 
 
-            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
+            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12 flex justify-center items-center">
               <div className="mb-12 lg:mb-16">
                 <a href="https://www.hotelxcaret.com/es/hotel-xcaret-mexico/">
                   <img
-                    src="http://10.13.175.84:81/epantallas/ima/hxa.svg"
+                    src="/images/hero/hxa.svg"
                     alt="Imagen del Hotel Xcaret México"
-                    className="mb-2 w-40 items-center"
+                    className="mb-2 w-40 items-center bg-white"
                   />
                 </a>
               </div>
             </div>
 
-            <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
+
+            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12 flex justify-center items-center">
               <div className="mb-12 lg:mb-16">
                 <a href="https://www.hotelxcaret.com/es/hotel-xcaret-mexico/">
                   <img
-                    src="http://10.13.175.84:81/epantallas/ima/casa-playa.svg"
+                    src="/images/hero/casa-playa.svg"
                     alt="Imagen del Hotel Xcaret México"
-                    className="mb-2 w-20 items-center"
+                    className="mb-2 w-20 items-center bg-white"
                   />
                 </a>
               </div>

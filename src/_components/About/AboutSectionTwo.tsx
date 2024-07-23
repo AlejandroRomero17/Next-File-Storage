@@ -1,4 +1,13 @@
 import Image from "next/image";
+import { FileCardActions } from "@/app/dashboard/_components/file-card";
+
+import {
+  Card,
+  CardContent,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 
 const AboutSectionTwo = () => {
   return (

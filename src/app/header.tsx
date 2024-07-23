@@ -23,7 +23,7 @@ export function Header() {
       <div className="container flex items-center justify-between mx-auto flex-wrap">
         <Link href="/" className="flex items-center gap-3">
           <Image
-            src="/gpo-xcaret-1-300x89.png"
+            src="/xcaret.png"
             alt="TechHub TI Logo"
             width={150}
             height={150}

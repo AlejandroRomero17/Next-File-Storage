@@ -54,14 +54,14 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/gpo-xcaret-1-300x89.png"
+                  src="/xcaret.png"
                   alt="logo"
                   width={140}
                   height={30}
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/gpo-xcaret-1-300x89.png"
+                  src="/images/logo/logo-xcaret.svg"
                   alt="logo"
                   width={140}
                   height={30}
